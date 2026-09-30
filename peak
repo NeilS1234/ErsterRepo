@@ -1,0 +1,24 @@
+git init / Erstellt ein neues Git-Repository im aktuellen Ordner.
+git clone <URL> / Kopiert ein bestehendes Repository auf deinen Rechner.
+git status / Zeigt, welche Dateien geändert, neu oder für den Commit vorgemerkt sind.
+git log / Zeigt die Commit-Historie.
+git log --oneline / Kompakte Commit-Historie.
+git branch / Zeigt deine lokalen Branches.
+git branch -a / Zeigt lokale und Remote-Branches.
+git remote -v / Zeigt, mit welchem Remote-Repository dein Projekt verbunden ist.
+git remote show origin / Zeigt Informationen zum Remote origin.
+git add datei.txt / Eine bestimmte Datei hinzufügen.
+git add . / Alle Änderungen im aktuellen Verzeichnis hinzufügen.
+git add -A / Alle Änderungen im gesamten Repository hinzufügen.
+git restore --staged datei.txt / Die Datei bleibt geändert, wird aber nicht mehr für den Commit vorgemer
+git commit -m "Beschreibung der Änderung" / Name für Änderung 
+git show / Letzten commit anzeigen 
+git push / Beim ersten Push eines neuen Branches
+git push -u origin HEAD / Das ist besonders praktisch, weil du nicht extra den Branchnamen schreiben musst.
+
+
+git push       → hochladen
+origin         → Remote-Repository
+HEAD           → aktuell ausgecheckter Branch
+-u             → Upstream-Verbindung merken
+
