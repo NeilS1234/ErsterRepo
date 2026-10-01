@@ -66,6 +66,9 @@ Dabei sollen mindestens drei verschiedene Datenstrukturen verwendet werden.
 # Aufgabe
 Ein Python-Programm erstellen, das Datensätze verarbeitet, klassifiziert, bestimmte Bedingungen prüft, eine Gesamtsumme berechnet und die Ergebnisse übersichtlich ausgibt.
 
+# Youtube Videos 
+* https://www.youtube.com/watch?v=b6KzYbM-Hvg (folge videos wurden davon auch angeschaut)
+
 ## Author
 
 Contributors names and contact info
