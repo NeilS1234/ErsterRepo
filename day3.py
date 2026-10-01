@@ -19,4 +19,4 @@ for transaction in transactions:
 
 print("Gesamtbetrag:", total, "Euro")
 
-#Was macht das Programm?
+
