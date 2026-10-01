@@ -21,11 +21,16 @@ Für die Bearbeitung des Projekts werden folgende Programme benötigt:
 * Ein Code-Editor, z. B. Visual Studio Code
 * Ein GitHub-Account 
 
-## Day 1 — Python and Git Setup#
+## Day 1 — Python and Git Setup
 * Python zu installieren und Programme auszuführen
 * mit dem Terminal zu arbeiten
 * Git und GitHub zu verwenden
 * Repositories, Commits und Pushes zu verstehen
+
+## Youtube Videos 
+* https://www.youtube.com/watch?v=r8jQ9hVA2qs&list=PL0lo9MOBetEFcp4SCWinBdpml9B2U25-f
+* https://www.youtube.com/watch?v=1rjNmOr8Q-E
+* https://www.youtube.com/watch?v=VtiDkRDPA_c&list=PL_pqkvxZ6ho3u8PJAsUU-rOAQ74D0TqZB&index=2 (Ich habe mehrere Videos von ihm angeschaut aber alle sind aus der gleichen Reihe)
 
 ## Aufgabe
 * GitHub Repository python-apprenticeship erstellen
@@ -33,6 +38,12 @@ Für die Bearbeitung des Projekts werden folgende Programme benötigt:
 * Erstes Python-Programm schreiben
 * Willkommensnachricht und persönliche Informationen ausgeben
 * Projekt committen und auf GitHub pushen
+
+## Youtube Videos
+* https://www.youtube.com/watch?v=eQbBD7d4PQI
+* https://www.youtube.com/watch?v=eesV_i3ZlIc
+* https://www.youtube.com/watch?v=H_TPIAEJl68
+
 
 ## Day 2 — Variables and Data Types
 * Variablen
@@ -46,7 +57,7 @@ Ein Python-Programm erstellen, das Informationen über fünf Mitarbeiter oder Pr
 Dabei sollen mindestens drei verschiedene Datenstrukturen verwendet werden.
 
 
-## Authors
+## Author
 
 Contributors names and contact info
 * Neil Schneider 
