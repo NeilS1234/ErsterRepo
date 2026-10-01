@@ -38,4 +38,57 @@ text = f"Hallo, ich heiße {name} und bin {alter} Jahre alt."
 print(text)
 
 
+#New task if else elif
+
+age = int(input("Bitte geben Sie Ihr Alter ein: "))
+
+if age < 18:
+    print("Du bist minderjährig.")
+elif age == 18:
+    print("Du bist genau 18.")
+elif age == 19:
+    print("Du bist genau 19.")
+else:
+    print("Du bist volljährig.")
+
+#new task logische operatoren 
+
+print("Willkommen in der Lotterie!")
+n1 = int(input("Bitte geben Sie die erste Zahl ein (zwischen 1 und 50): "))
+n2 = int(input("Bitte geben Sie die zweite Zahl ein (zwischen 1 und 50): "))
+n3 = int(input("Bitte geben Sie die dritte Zahl ein (zwischen 1 und 50): "))
+
+
+#Gewinnzahlen 1:7
+#Gewinnzahlen 2:14
+#Gewinnzahlen 3:21
+
+if n1 == 7:
+    if n2 == 14:
+        if n3 == 21:
+            print("Herzlichen Glückwunsch! Sie haben alle drei Gewinnzahlen getroffen!")
+        else:
+            print("Du hast verloren!")
+    else:
+        print("Du hast verloren!")
+else:
+    print("Du hast verloren!")
+    
+
+if n1 == 7 and n2 == 14 and n3 == 21: # vereinfacht die verschachtelten if-Bedingungen 
+    print("Herzlichen Glückwunsch! Sie haben alle drei Gewinnzahlen getroffen!")
+else:
+    print("Du hast verloren!")
+
+
+
+#new task while loop
+counter = 5
+while counter < 10:
+    print("Hier steht Code , der wiederholt ausgeführt wird")
+    counter += 1  # Erhöht den Zähler um 1, um eine Endlosschleife zu vermeiden 
+
+
+# for loop 
+
 
