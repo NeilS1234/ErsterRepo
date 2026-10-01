@@ -56,6 +56,15 @@ Für die Bearbeitung des Projekts werden folgende Programme benötigt:
 Ein Python-Programm erstellen, das Informationen über fünf Mitarbeiter oder Produkte speichert und ausgibt.
 Dabei sollen mindestens drei verschiedene Datenstrukturen verwendet werden.
 
+# Day 3 — Conditions and Loops
+* if, elif, else
+* Vergleichs- und logische Operatoren
+* for- und while-Schleifen
+* Loop Control mit break und continue
+* Git-Branches erstellen und wechseln
+
+# Aufgabe
+Ein Python-Programm erstellen, das Datensätze verarbeitet, klassifiziert, bestimmte Bedingungen prüft, eine Gesamtsumme berechnet und die Ergebnisse übersichtlich ausgibt.
 
 ## Author
 
