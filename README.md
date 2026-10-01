@@ -56,7 +56,6 @@ Für die Bearbeitung des Projekts werden folgende Programme benötigt:
 Ein Python-Programm erstellen, das Informationen über fünf Mitarbeiter oder Produkte speichert und ausgibt.
 Dabei sollen mindestens drei verschiedene Datenstrukturen verwendet werden.
 
-
 ## Author
 
 Contributors names and contact info
