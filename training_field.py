@@ -89,6 +89,14 @@ while counter < 10:
     counter += 1  # Erhöht den Zähler um 1, um eine Endlosschleife zu vermeiden 
 
 
-# for loop 
+# for loop
+for element in [1, 2, 3, 4, 5]:
+    print(element)  # Gibt jedes Element der Liste aus
+
+# Zählerschschleife 
+for element in range(5, 10,  2):  # range(5, 10) erzeugt die Zahlen 5 bis 9
+    print(element)  # Gibt die Zahlen von 5 bis 9 aus
 
 
+zahlen = [10, 20, 30]
+gesamt = sum(zahlen)
