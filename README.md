@@ -69,6 +69,22 @@ Ein Python-Programm erstellen, das Datensätze verarbeitet, klassifiziert, besti
 # Youtube Videos 
 * https://www.youtube.com/watch?v=b6KzYbM-Hvg (folge videos wurden davon auch angeschaut)
 
+# Day 4 — Functions and Modules
+* Funktionen definieren und aufrufen
+* Parameter und Rückgabewerte verwenden
+* Variablenbereiche (Scope) verstehen
+* Module importieren und verwenden
+* Wiederverwendbaren Code schreiben
+
+# Aufgabe
+Das Day-3-Programm in wiederverwendbare Funktionen refaktorieren.
+Funktionen für Input-Validierung, Berechnungen, Klassifizierung und Formatierung des Outputs erstellen.
+Dabei den Code übersichtlicher, strukturierter und wiederverwendbar gestalten.
+
+# Youtube Videos
+https://www.youtube.com/watch?v=LQCfN5HS9xI&list=PL_pqkvxZ6ho3u8PJAsUU-rOAQ74D0TqZB&index=18 (folge videos wurden davon auch angeschaut)
+
+
 ## Author
 
 Contributors names and contact info
