@@ -108,4 +108,15 @@ def say_hello(first_name, last_name):
 
 
 
-say_hello("Fabian", "Mustermann")
+print(type(say_hello("Fabian", "Mustermann")))
+
+
+
+def maximum(a, b):
+    if a > b:
+        return a
+    else:
+        return b
+
+result = maximum(5, 10)  # Gibt 10 zurück
+print(result)  # Ausgabe: 10
