@@ -103,7 +103,7 @@ gesamt = sum(zahlen)
 
 
 def say_hello(first_name, last_name):
-    print("Hallo " + first_name + " " + last_name)
+    print(print("Hallo " + first_name + " " + last_name))
     print("Willkommen zu meinem Programm.")
 
 
