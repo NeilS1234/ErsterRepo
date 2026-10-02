@@ -102,11 +102,16 @@ zahlen = [10, 20, 30]
 gesamt = sum(zahlen)
 
 
+def say_hello(first_name, last_name):
+    print(print("Hallo " + first_name + " " + last_name))
 
 def say_hello(first_name, last_name):
     print("Hallo " + first_name + " " + last_name)
     print("Willkommen zu meinem Programm.")
 
+
+
+print(type(say_hello("Fabian", "Mustermann")))
 
 
 say_hello("Fabian", "Mustermann")
