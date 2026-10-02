@@ -100,3 +100,12 @@ for element in range(5, 10,  2):  # range(5, 10) erzeugt die Zahlen 5 bis 9
 
 zahlen = [10, 20, 30]
 gesamt = sum(zahlen)
+
+
+def say_hello(first_name, last_name):
+    print("Hallo " + first_name + " " + last_name)
+    print("Willkommen zu meinem Programm.")
+
+
+
+say_hello("Fabian", "Mustermann")
