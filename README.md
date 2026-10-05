@@ -84,6 +84,28 @@ Dabei den Code übersichtlicher, strukturierter und wiederverwendbar gestalten.
 # Youtube Videos
 https://www.youtube.com/watch?v=LQCfN5HS9xI&list=PL_pqkvxZ6ho3u8PJAsUU-rOAQ74D0TqZB&index=18 (folge videos wurden davon auch angeschaut)
 
+# Day 5 – Files & Error Handling
+* Textdateien lesen und schreiben
+* CSV-Dateien lesen und schreiben
+* JSON-Dateien lesen und schreiben
+* try, except und finally lernen
+* Wichtige Python-Exceptions kennenlernen:
+* ValueError
+* TypeError
+* FileNotFoundError
+* ZeroDivisionError
+* KeyError
+* IndexError
+* Fehler mit try/except behandeln
+* Virtuelle Umgebungen mit venv erstellen und verwenden
+* pip und requirements.txt kennenlernen
+* Eine .gitignore für Python-Projekte erstellen
+* Das Gelernte praktisch anwenden
+
+# Aufgabe 
+Ich erstelle eine kleine File-Processing-Anwendung, die Daten aus einer CSV-Datei einliest, auf fehlende oder ungültige Werte prüft, Fehler behandelt, eine Zusammenfassung erstellt und das Ergebnis in einer neuen Datei speichert.
+
+# Youtube 
 
 ## Author
 
