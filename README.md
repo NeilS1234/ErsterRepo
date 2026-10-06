@@ -106,6 +106,9 @@ https://www.youtube.com/watch?v=LQCfN5HS9xI&list=PL_pqkvxZ6ho3u8PJAsUU-rOAQ74D0T
 Ich erstelle eine kleine File-Processing-Anwendung, die Daten aus einer CSV-Datei einliest, auf fehlende oder ungültige Werte prüft, Fehler behandelt, eine Zusammenfassung erstellt und das Ergebnis in einer neuen Datei speichert.
 
 # Youtube 
+https://www.youtube.com/watch?v=rI_R086GUgo
+https://www.youtube.com/watch?v=V_NXT2-QIlE
+https://www.youtube.com/watch?v=sU6gd1_QUy8
 
 ## Author
 
