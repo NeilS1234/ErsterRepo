@@ -110,6 +110,21 @@ https://www.youtube.com/watch?v=rI_R086GUgo
 https://www.youtube.com/watch?v=V_NXT2-QIlE
 https://www.youtube.com/watch?v=sU6gd1_QUy8
 
+# Day 6 – NumPy Fundamentals
+* NumPy-Arrays erstellen und verwenden
+* Array Shapes und Datentypen kennenlernen
+* Indexing und Slicing lernen
+* Vektorisierte Operationen durchführen
+* Aggregationsfunktionen kennenlernen
+* NumPy für mathematische Berechnungen verwenden
+* Numerische Daten mit NumPy analysieren
+
+# Aufgabe
+Ich analysiere eine Reihe von numerischen Werten mit NumPy und berechne die Summe, den Mittelwert, den Median, den Minimal- und Maximalwert sowie die Standardabweichung. Zusätzlich berechne ich die prozentuale Abweichung der einzelnen Werte vom Mittelwert. Die Berechnungen werden möglichst mit NumPy anstatt mit manuellen Schleifen durchgeführt.
+
+# Youtube
+
+
 ## Author
 
 Contributors names and contact info
