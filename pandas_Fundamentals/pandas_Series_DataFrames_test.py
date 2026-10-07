@@ -14,7 +14,7 @@ df["Alter"]
 
 df[["Name", "Alter"]]
 
-df = pd.read_csv("personen.csv")
+df = pd.read_csv("mitarbeiter.csv")
 
 df.loc[0]
 df.loc[0, "Name"]
