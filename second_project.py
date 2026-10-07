@@ -23,12 +23,12 @@ print(f"\n2. Gesamtzahl der Mitarbeiter: {anzahl}")
 
 
 #  3. Ausgewählte Informationen 
+# 3. Ausgewählte Informationen
 print("\n3. Name und Job:")
-print(f"{alle_mitarbeiter[0]['name']} — {alle_mitarbeiter[0]['job']}")
-print(f"{alle_mitarbeiter[1]['name']} — {alle_mitarbeiter[1]['job']}")
-print(f"{alle_mitarbeiter[2]['name']} — {alle_mitarbeiter[2]['job']}")
-print(f"{alle_mitarbeiter[3]['name']} — {alle_mitarbeiter[3]['job']}")
-print(f"{alle_mitarbeiter[4]['name']} — {alle_mitarbeiter[4]['job']}")
+
+for mitarbeiter in alle_mitarbeiter:
+    print(f"{mitarbeiter['name']} — {mitarbeiter['job']}")
+
 
 
 
