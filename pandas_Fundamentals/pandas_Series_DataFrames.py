@@ -1,15 +1,40 @@
 import pandas as pd
 
-daten = pd.read_csv("mitarbeiter.csv")
+noten = pd.Series([1, 2, 3, 2, 1])
+
+print(noten)
 
 
-print(daten.head())
-print(daten.columns)
-print(daten.dtypes)
+df = pd.DataFrame({
+    "Name": ["Anna", "Ben", "Chris"],
+    "Alter": [20, 25, 22]
+})
 
-buero = daten[daten["abteilung"] == "Büro"]
+df["Alter"]
 
-print(daten.describe())
+df[["Name", "Alter"]]
 
+df = pd.read_csv("personen.csv")
 
+df.loc[0]
+df.loc[0, "Name"]
+
+df.iloc[0]
+df.iloc[0, 1]
+
+df[df["Alter"] > 20]
+df[df["Alter"] == 20]
+df[df["Alter"] < 25]
+
+df.query("Alter > 20")
+df[df["Alter"] > 20] 
+
+df["Alter"].mean()
+df["Alter"].median()
+df["Alter"].min()
+df["Alter"].max()
+df["Alter"].sum()
+df["Alter"].count()
+df["Alter"].std()
+df.describe()
 
