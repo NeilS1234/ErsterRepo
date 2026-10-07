@@ -1,6 +1,4 @@
-name,job,abteilung,gehalt
-Anna,Chefin,Büro,4500
-Ben,Helfer,Lager,2800
-Clara,Planerin,Büro,3500
-David,Fahrer,Lager,3000
-Eva,Verkäuferin,Büro,2900
+Name,Alter,Stadt
+Anna,20,München
+Ben,25,Berlin
+Chris,22,Hamburg
