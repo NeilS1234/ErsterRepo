@@ -123,6 +123,10 @@ https://www.youtube.com/watch?v=sU6gd1_QUy8
 Ich analysiere eine Reihe von numerischen Werten mit NumPy und berechne die Summe, den Mittelwert, den Median, den Minimal- und Maximalwert sowie die Standardabweichung. Zusätzlich berechne ich die prozentuale Abweichung der einzelnen Werte vom Mittelwert. Die Berechnungen werden möglichst mit NumPy anstatt mit manuellen Schleifen durchgeführt.
 
 # Youtube
-
-
+https://www.youtube.com/watch?v=XamW67vUJ-Q
+https://www.youtube.com/watch?v=bWl4I-kYpio
+https://www.youtube.com/watch?v=RWWjSm5F8uM&t=1s
+https://www.youtube.com/watch?v=kxpGn6DQVB4
+https://www.youtube.com/watch?v=mQ_P06Z7e5Y
+https://www.youtube.com/watch?v=cccNKHvzofw
 
