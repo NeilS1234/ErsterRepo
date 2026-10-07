@@ -130,3 +130,21 @@ https://www.youtube.com/watch?v=kxpGn6DQVB4
 https://www.youtube.com/watch?v=mQ_P06Z7e5Y
 https://www.youtube.com/watch?v=cccNKHvzofw
 
+# Day 7 – pandas Fundamentals
+* pandas Series und DataFrames kennenlernen
+* CSV-Dateien mit pandas einlesen
+* Zeilen, Spalten und Datentypen untersuchen
+* Daten auswählen und filtern
+* Fehlende Werte und Duplikate erkennen
+* Deskriptive Statistiken kennenlernen
+* Numerische Daten mit pandas analysieren
+
+# Aufgabe
+Ich lade einen CSV-Datensatz mit pandas und erstelle eine Übersicht über die enthaltenen Daten. Dabei ermittle ich die Anzahl der Zeilen und Spalten, die Spaltennamen und Datentypen, die Anzahl der fehlenden Werte sowie die Anzahl der Duplikate. Zusätzlich erstelle ich eine numerische Zusammenfassung der Daten und formuliere fünf Beobachtungen über den Datensatz. Die Analyse wird möglichst mit pandas anstatt mit manuellen Schleifen durchgeführt.
+
+# Youtube 
+https://www.youtube.com/watch?v=iaziBEhdyRk
+https://www.youtube.com/watch?v=MMKoqLbxWPM
+https://www.youtube.com/watch?v=7hWy2JLxKsM
+https://www.youtube.com/watch?v=jcwgstukVrQ
+
