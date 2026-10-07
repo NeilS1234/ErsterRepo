@@ -1,0 +1,11 @@
+Kundennummer,Alter,Geschlecht,Stadt,Jahreseinkommen,Anzahl_Kaeufe
+1,25,Weiblich,Berlin,32000,5
+2,34,Männlich,München,45000,8
+3,29,Weiblich,Hamburg,38000,6
+4,41,Männlich,Berlin,62000,12
+5,36,Weiblich,Köln,51000,9
+6,52,Männlich,München,73000,15
+7,28,Weiblich,Hamburg,35000,4
+8,45,Männlich,Köln,58000,11
+9,31,Weiblich,Berlin,42000,7
+10,39,Männlich,München,55000,10
