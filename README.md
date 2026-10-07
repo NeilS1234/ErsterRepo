@@ -125,14 +125,4 @@ Ich analysiere eine Reihe von numerischen Werten mit NumPy und berechne die Summ
 # Youtube
 
 
-## Author
-
-Contributors names and contact info
-* Neil Schneider 
-
-
-## Acknowledgments
-
-* Readme based on template from https://gist.githubusercontent.com/DomPizzie/7a5ff55ffa9081f2de27c315f5018afc/raw/d59043abbb123089ad6602aba571121b71d91d7f/README-Template.md 
-
 
