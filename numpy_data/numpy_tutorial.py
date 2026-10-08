@@ -8,3 +8,4 @@ print([3 * x for x in temp])
 print(np.array([42, 127], np.int8))
 
 
+
