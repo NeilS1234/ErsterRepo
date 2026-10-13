@@ -1,0 +1,8 @@
+Issue Found,Chosen Correction,Reason,Affected Records
+Missing age,Replaced missing age with 21,A value is needed for this example,1
+Duplicate rows,Removed duplicate rows,Duplicates can cause incorrect results,1
+Negative salary,Changed negative salary to an empty value,Salary should not be negative,1
+Inconsistent text in vorname,Removed spaces and used title case,Text should be consistent,3
+Inconsistent text in Stadt,Removed spaces and used title case,Text should be consistent,3
+Invalid dates,Changed invalid dates to empty values,The correct date is unknown,1
+Column names,Renamed vorname to Name and alter to Alter,Clear column names are easier to understand,2

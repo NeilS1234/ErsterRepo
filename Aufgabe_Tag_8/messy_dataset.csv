@@ -1,0 +1,12 @@
+vorname,alter,Stadt,Gehalt,Datum
+ max mustermann ,25,Berlin,3000,15.01.2024
+ANNA SCHMIDT,32,berlin,4200,15.02.2023
+Peter Müller,150,Hamburg,3500,10.03.2023
+Lisa Weber,28,Munich,2800,20.04.2024
+John Smith,35,London,5000,12.05.2022
+John Smith,35,London,5000,12.05.2022
+Maria Garcia,,Madrid,3900,18.06.2023
+Tom Brown,29,HAMBURG,-1200,22.07.2024
+Sarah Jones,31,London,4500,falsches_datum
+David Lee,27,Berlin,NA,14.09.2023
+emma wilson,24,munich,3200,01.10.2024
