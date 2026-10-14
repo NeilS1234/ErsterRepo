@@ -169,3 +169,21 @@ https://www.youtube.com/watch?v=bofaC0IckHo
 https://www.youtube.com/watch?v=EaGbS7eWSs0
 
 
+# Day 9 – Filtering, Grouping, and Aggregation
+* DataFrames filtern
+* Werte sortieren
+* Daten mit `groupby()` gruppieren
+* Aggregationen wie Summe, Durchschnitt, Minimum und Maximum durchführen
+* Berechnete Spalten erstellen
+* Pivot-Tabellen mit `pivot_table()` erstellen
+* Daten analysieren und aussagekräftige Berichte erstellen
+
+# Aufgabe
+Ich lade einen Verkaufs-, Mitarbeiter- oder operativen Datensatz mit pandas ein und analysiere die enthaltenen Daten. Dabei filtere ich die Daten nach bestimmten Kriterien, sortiere die Ergebnisse und gruppiere sie nach mindestens zwei Kategorien. Anschließend berechne ich Summen und Durchschnittswerte, identifiziere die leistungsstärksten und leistungsschwächsten Gruppen und erstelle mindestens eine berechnete Spalte. Zusätzlich erstelle ich eine Pivot-Tabelle, um die Ergebnisse übersichtlich darzustellen und verschiedene Kategorien miteinander zu vergleichen. Abschließend fasse ich die wichtigsten Erkenntnisse in einem übersichtlichen Bericht zusammen.
+# YouTube 
+https://www.youtube.com/watch?v=mCXZXe-Na3s
+https://www.youtube.com/watch?v=5yFox2cReTw
+https://www.youtube.com/watch?v=xe3KbuDbjfQ
+https://www.youtube.com/watch?v=VRmXto2YA2I
+https://www.youtube.com/watch?v=L5kf4sQnVhI
+https://www.youtube.com/watch?v=kB7FV-ijdqE
