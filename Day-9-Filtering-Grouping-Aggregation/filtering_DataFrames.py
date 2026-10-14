@@ -7,7 +7,7 @@ print(df.columns)
 
 print(df[df["Preis"] >= 3])
 
-print(df[(df["Preis"] >= 3) & (df["Menge "] > 5)])
+print(df[(df["Preis"] >= 3) & (df["Menge"] > 5)])
 
 #vom günstigsten zum teuersten sortieren
 print(df.sort_values("Preis"))
@@ -19,4 +19,13 @@ print(df.sort_values("Preis", ascending=False))
 print(df.sort_values(["Kategorie", "Preis"]))
 
 #Gruppieren nach Kategorie und die Summe der Menge berechnen
-print(df.groupby("Kategorie")["Menge "].sum())
+print(df.groupby("Kategorie")["Menge"].sum())
+
+#Durchschnittpreis aller Produkte 
+print(df["Preis"].mean())
+
+#mehrere Kennzahlen auf einmal berechnen, min, max, mean, sum
+print(df["Preis"].agg(["min", "max", "mean", "sum"]))
+
+#durchschnittspreis und Maximalpreis pro Kategorie berechnen
+print(df.groupby("Kategorie")["Preis"].agg(["mean", "max"]))
