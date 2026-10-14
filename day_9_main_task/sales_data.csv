@@ -1,0 +1,13 @@
+Region,Kategorie,Produkt,Umsatz,Menge
+Nord,Technik,Laptop,1200,2
+Nord,Moebel,Stuhl,400,4
+Nord,Technik,Handy,800,5
+Sued,Moebel,Tisch,600,3
+Sued,Technik,Tablet,900,3
+Sued,Moebel,Schrank,300,2
+West,Technik,Laptop,1500,2
+West,Moebel,Tisch,500,5
+West,Technik,Handy,700,4
+Ost,Moebel,Stuhl,350,5
+Ost,Technik,Tablet,1000,2
+Ost,Moebel,Schrank,450,3
