@@ -40,3 +40,19 @@ print(df)
 #Das Prodkt als teuer kennzeichnen 
 df["Teuer"] = df["Preis"] >= 3
 print(df)
+
+df = pd.DataFrame({
+    "Kategorie": ["Obst", "Obst", "Backwaren", "Backwaren"],
+    "Monat": ["Januar", "Februar", "Januar", "Februar"],
+    "Umsatz": [100, 150, 200, 120]
+})
+
+pd.pivot_table(
+    df,
+    values="Umsatz",
+    index="Kategorie",
+    columns="Monat",
+    aggfunc="sum"
+)
+
+print(df)
