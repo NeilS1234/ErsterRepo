@@ -148,3 +148,24 @@ https://www.youtube.com/watch?v=MMKoqLbxWPM
 https://www.youtube.com/watch?v=7hWy2JLxKsM
 https://www.youtube.com/watch?v=jcwgstukVrQ
 
+# Day 8 – Data Cleaning
+* Fehlende Werte erkennen und behandeln
+* Duplikate erkennen und entfernen
+* Datentypen korrigieren
+* Strings bereinigen und vereinheitlichen
+* Datumswerte erkennen und formatieren
+* Spaltennamen umbenennen
+* Datenqualität verbessern und bereinigte Datensätze speichern
+
+# Aufgabe
+Ich lade einen absichtlich fehlerhaften CSV-Datensatz mit pandas ein und bereinige die enthaltenen Daten. Dabei identifiziere ich fehlende Werte, Duplikate, falsche Datentypen, fehlerhafte oder uneinheitliche Strings, problematische Datumswerte und unpassende Spaltennamen. Für jedes gefundene Problem dokumentiere ich die gewählte Korrektur, den Grund für die Korrektur und die Anzahl der betroffenen Datensätze. Anschließend speichere ich den bereinigten Datensatz als neue CSV-Datei und überprüfe, ob die Bereinigung erfolgreich war. Die ursprüngliche Datei bleibt unverändert.
+
+# YouTube
+https://www.youtube.com/watch?v=JU1EhK89ThE
+https://www.youtube.com/watch?v=8TUPwzky1o0
+https://www.youtube.com/watch?v=-0_yjR7qFz0
+https://www.youtube.com/watch?v=anneHQgFAZo
+https://www.youtube.com/watch?v=bofaC0IckHo
+https://www.youtube.com/watch?v=EaGbS7eWSs0
+
+
