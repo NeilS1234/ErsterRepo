@@ -29,3 +29,14 @@ print(df["Preis"].agg(["min", "max", "mean", "sum"]))
 
 #durchschnittspreis und Maximalpreis pro Kategorie berechnen
 print(df.groupby("Kategorie")["Preis"].agg(["mean", "max"]))
+
+#Gesamtwert pro Produkt berechnen, Preis * Menge
+df["Gesamtwert"] = df["Preis"] * df["Menge"]
+print(df)
+
+#Rabattpreis berechnen, 10% Rabatt auf den Preis
+df["Rabattpreis"] = df["Preis"] * 0.9
+print(df)
+#Das Prodkt als teuer kennzeichnen 
+df["Teuer"] = df["Preis"] >= 3
+print(df)
