@@ -210,3 +210,22 @@ https://www.youtube.com/watch?v=UO98lJQ3QGI
 https://www.youtube.com/watch?v=WGOEFok1szA
 https://www.youtube.com/watch?v=TPivN7tpdwc
 
+# Day 11 – Maintainable Python
+* Python-Projektstruktur erstellen
+* Clean-Code-Prinzipien anwenden
+* Aussagekräftige Namen für Variablen und Funktionen verwenden
+* Type Hints für Parameter und Rückgabewerte nutzen
+* Funktionen mit Google-Style-Docstrings dokumentieren
+* Programmlogik von Ein- und Ausgabe trennen
+* Wiederverwendbare Funktionen erstellen und einen klaren Einstiegspunkt definieren
+
+# Aufgabe
+Ich überarbeite eine frühere Python-Aufgabe und strukturiere sie als übersichtliches Projekt. Dabei erstelle ich ein eigenes Quellcode-Verzeichnis und Teile den Code in kleine, wiederverwendbare Funktionen auf. Ich verwende aussagekräftige Namen und Type Hints, um den Code verständlicher zu machen. Zusätzlich dokumentiere ich meine Funktionen mit Google-Style-Docstrings und trenne die eigentliche Programmlogik von der Ein- und Ausgabe. Ich definiere einen klaren Einstiegspunkt für das Programm und aktualisiere die README-Datei, um die Projektstruktur, die Funktionsweise und die Ausführung des Programms zu erklären.
+
+# Youtube 
+https://www.youtube.com/watch?v=kvKvYXXuHoo
+https://www.youtube.com/watch?v=LEC2FJINg24
+https://www.youtube.com/watch?v=E2qXxoR_VE0&list=PLLlTVphLQsuPCjAS5QbMf4HAedDPRPPHA
+https://www.youtube.com/watch?v=Uw95Uc3xgWU
+https://www.youtube.com/watch?v=wSDyiEjhp8k
+https://www.youtube.com/watch?v=b-LJ1xzIo8Q
