@@ -180,6 +180,7 @@ https://www.youtube.com/watch?v=EaGbS7eWSs0
 
 # Aufgabe
 Ich lade einen Verkaufs-, Mitarbeiter- oder operativen Datensatz mit pandas ein und analysiere die enthaltenen Daten. Dabei filtere ich die Daten nach bestimmten Kriterien, sortiere die Ergebnisse und gruppiere sie nach mindestens zwei Kategorien. Anschließend berechne ich Summen und Durchschnittswerte, identifiziere die leistungsstärksten und leistungsschwächsten Gruppen und erstelle mindestens eine berechnete Spalte. Zusätzlich erstelle ich eine Pivot-Tabelle, um die Ergebnisse übersichtlich darzustellen und verschiedene Kategorien miteinander zu vergleichen. Abschließend fasse ich die wichtigsten Erkenntnisse in einem übersichtlichen Bericht zusammen.
+
 # YouTube 
 https://www.youtube.com/watch?v=mCXZXe-Na3s
 https://www.youtube.com/watch?v=5yFox2cReTw
@@ -187,3 +188,25 @@ https://www.youtube.com/watch?v=xe3KbuDbjfQ
 https://www.youtube.com/watch?v=VRmXto2YA2I
 https://www.youtube.com/watch?v=L5kf4sQnVhI
 https://www.youtube.com/watch?v=kB7FV-ijdqE
+
+
+# Day 10 – Combining and Visualizing Data
+* DataFrames mit `merge()` und `join()` zusammenführen
+* Datensätze mit `concat()` kombinieren
+* Einfache Diagramme mit pandas oder Matplotlib erstellen
+* Den passenden Diagrammtyp auswählen
+* Daten analysieren und datenbasierte Schlussfolgerungen formulieren
+
+# Aufgabe
+Ich lade mindestens zwei zusammengehörige Datensätze mit pandas ein und kombiniere diese zu einem gemeinsamen Datensatz. Dabei verwende ich geeignete Methoden wie `merge()`, `join()` oder `concat()`, um die Daten korrekt zusammenzuführen.
+Anschließend visualisiere ich die Daten mit pandas oder Matplotlib und erstelle mindestens drei aussagekräftige Diagramme. Dabei wähle ich für jede Fragestellung einen geeigneten Diagrammtyp aus, beispielsweise ein Balkendiagramm, ein Liniendiagramm oder ein Streudiagramm.
+Zusätzlich analysiere ich die Ergebnisse und formuliere mindestens fünf datenbasierte Erkenntnisse, die durch konkrete Zahlen oder Beobachtungen aus den Daten gestützt werden. Abschließend fasse ich die wichtigsten Ergebnisse in einem übersichtlichen Bericht zusammen und erläutere kurz die Grenzen der Analyse.
+
+# YouTube
+https://www.youtube.com/watch?v=bjbof1CXwek
+https://www.youtube.com/watch?v=fBgk_cNCnsk
+https://www.youtube.com/watch?v=AR8bgm-PjHc
+https://www.youtube.com/watch?v=UO98lJQ3QGI
+https://www.youtube.com/watch?v=WGOEFok1szA
+https://www.youtube.com/watch?v=TPivN7tpdwc
+
