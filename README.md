@@ -180,6 +180,7 @@ https://www.youtube.com/watch?v=EaGbS7eWSs0
 
 # Aufgabe
 Ich lade einen Verkaufs-, Mitarbeiter- oder operativen Datensatz mit pandas ein und analysiere die enthaltenen Daten. Dabei filtere ich die Daten nach bestimmten Kriterien, sortiere die Ergebnisse und gruppiere sie nach mindestens zwei Kategorien. Anschließend berechne ich Summen und Durchschnittswerte, identifiziere die leistungsstärksten und leistungsschwächsten Gruppen und erstelle mindestens eine berechnete Spalte. Zusätzlich erstelle ich eine Pivot-Tabelle, um die Ergebnisse übersichtlich darzustellen und verschiedene Kategorien miteinander zu vergleichen. Abschließend fasse ich die wichtigsten Erkenntnisse in einem übersichtlichen Bericht zusammen.
+
 # YouTube 
 https://www.youtube.com/watch?v=mCXZXe-Na3s
 https://www.youtube.com/watch?v=5yFox2cReTw
@@ -187,3 +188,44 @@ https://www.youtube.com/watch?v=xe3KbuDbjfQ
 https://www.youtube.com/watch?v=VRmXto2YA2I
 https://www.youtube.com/watch?v=L5kf4sQnVhI
 https://www.youtube.com/watch?v=kB7FV-ijdqE
+
+
+# Day 10 – Combining and Visualizing Data
+* DataFrames mit `merge()` und `join()` zusammenführen
+* Datensätze mit `concat()` kombinieren
+* Einfache Diagramme mit pandas oder Matplotlib erstellen
+* Den passenden Diagrammtyp auswählen
+* Daten analysieren und datenbasierte Schlussfolgerungen formulieren
+
+# Aufgabe
+Ich lade mindestens zwei zusammengehörige Datensätze mit pandas ein und kombiniere diese zu einem gemeinsamen Datensatz. Dabei verwende ich geeignete Methoden wie `merge()`, `join()` oder `concat()`, um die Daten korrekt zusammenzuführen.
+Anschließend visualisiere ich die Daten mit pandas oder Matplotlib und erstelle mindestens drei aussagekräftige Diagramme. Dabei wähle ich für jede Fragestellung einen geeigneten Diagrammtyp aus, beispielsweise ein Balkendiagramm, ein Liniendiagramm oder ein Streudiagramm.
+Zusätzlich analysiere ich die Ergebnisse und formuliere mindestens fünf datenbasierte Erkenntnisse, die durch konkrete Zahlen oder Beobachtungen aus den Daten gestützt werden. Abschließend fasse ich die wichtigsten Ergebnisse in einem übersichtlichen Bericht zusammen und erläutere kurz die Grenzen der Analyse.
+
+# YouTube
+https://www.youtube.com/watch?v=bjbof1CXwek
+https://www.youtube.com/watch?v=fBgk_cNCnsk
+https://www.youtube.com/watch?v=AR8bgm-PjHc
+https://www.youtube.com/watch?v=UO98lJQ3QGI
+https://www.youtube.com/watch?v=WGOEFok1szA
+https://www.youtube.com/watch?v=TPivN7tpdwc
+
+# Day 11 – Maintainable Python
+* Python-Projektstruktur erstellen
+* Clean-Code-Prinzipien anwenden
+* Aussagekräftige Namen für Variablen und Funktionen verwenden
+* Type Hints für Parameter und Rückgabewerte nutzen
+* Funktionen mit Google-Style-Docstrings dokumentieren
+* Programmlogik von Ein- und Ausgabe trennen
+* Wiederverwendbare Funktionen erstellen und einen klaren Einstiegspunkt definieren
+
+# Aufgabe
+Ich überarbeite eine frühere Python-Aufgabe und strukturiere sie als übersichtliches Projekt. Dabei erstelle ich ein eigenes Quellcode-Verzeichnis und Teile den Code in kleine, wiederverwendbare Funktionen auf. Ich verwende aussagekräftige Namen und Type Hints, um den Code verständlicher zu machen. Zusätzlich dokumentiere ich meine Funktionen mit Google-Style-Docstrings und trenne die eigentliche Programmlogik von der Ein- und Ausgabe. Ich definiere einen klaren Einstiegspunkt für das Programm und aktualisiere die README-Datei, um die Projektstruktur, die Funktionsweise und die Ausführung des Programms zu erklären.
+
+# Youtube 
+https://www.youtube.com/watch?v=kvKvYXXuHoo
+https://www.youtube.com/watch?v=LEC2FJINg24
+https://www.youtube.com/watch?v=E2qXxoR_VE0&list=PLLlTVphLQsuPCjAS5QbMf4HAedDPRPPHA
+https://www.youtube.com/watch?v=Uw95Uc3xgWU
+https://www.youtube.com/watch?v=wSDyiEjhp8k
+https://www.youtube.com/watch?v=b-LJ1xzIo8Q
