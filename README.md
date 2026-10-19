@@ -229,3 +229,22 @@ https://www.youtube.com/watch?v=E2qXxoR_VE0&list=PLLlTVphLQsuPCjAS5QbMf4HAedDPRP
 https://www.youtube.com/watch?v=Uw95Uc3xgWU
 https://www.youtube.com/watch?v=wSDyiEjhp8k
 https://www.youtube.com/watch?v=b-LJ1xzIo8Q
+
+# Day 12 – Testing and Debugging
+* Python-Tracebacks lesen und Fehlermeldungen verstehen
+* Debugging-Techniken anwenden, um Fehler systematisch zu finden und zu beheben
+* Automatisierte Tests mit pytest schreiben und ausführen
+* Testfälle und Assertions verwenden, um erwartete Ergebnisse zu überprüfen
+* Normale Anwendungsfälle, Edge Cases und ungültige Eingaben testen
+* Statische Typprüfungen mit mypy durchführen
+* Codequalität und Stil mit Ruff und Flake8 überprüfen
+
+# Aufgabe
+Ich erweitere mein refaktorisiertes Python-Projekt um automatisierte Tests, um die korrekte Funktionsweise des Programms sicherzustellen. Dabei schreibe ich mit pytest verschiedene Testfälle für normale Anwendungsfälle, Sonderfälle und ungültige Eingaben. Mithilfe von Assertions überprüfe ich, ob die Funktionen die erwarteten Ergebnisse liefern und Fehler bei ungültigen Eingaben korrekt behandeln. Zusätzlich überprüfe ich mein Projekt mit mypy auf Typfehler sowie mit Ruff und Flake8 auf mögliche Codequalitäts- und Stilprobleme. Abschließend führe ich alle Tests und Prüfungen aus, um sicherzustellen, dass das Projekt zuverlässig funktioniert und die Qualitätsprüfungen erfolgreich abgeschlossen werden.
+
+# Youtube 
+https://www.youtube.com/watch?v=xhg1dJHLqSM
+https://www.youtube.com/watch?v=I1uiM0d5zd8
+https://www.youtube.com/watch?v=cHYq1MRoyI0
+https://www.youtube.com/watch?v=EgpLj86ZHFQ
+https://www.youtube.com/watch?v=BE2v1VCmGwg
