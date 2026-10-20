@@ -248,3 +248,27 @@ https://www.youtube.com/watch?v=I1uiM0d5zd8
 https://www.youtube.com/watch?v=cHYq1MRoyI0
 https://www.youtube.com/watch?v=EgpLj86ZHFQ
 https://www.youtube.com/watch?v=BE2v1VCmGwg
+
+
+# Day 13 – Git Branches and Pull Requests
+
+* Feature Branches erstellen und verwenden, um Änderungen unabhängig vom Hauptbranch zu entwickeln
+* Pull Requests erstellen, um Änderungen zur Überprüfung und Zusammenführung vorzuschlagen
+* Den Code-Review-Workflow anwenden, um Feedback zu erhalten und Verbesserungen umzusetzen
+* Die Konzepte von Merge und Rebase verstehen und ihre Unterschiede kennenlernen
+* Merge-Konflikte erkennen, analysieren und systematisch beheben
+* Änderungen mit Git revert rückgängig machen, ohne die Commit-Historie zu überschreiben
+* Git-Befehle zur Verwaltung von Branches, Commits und der Zusammenarbeit im Team anwenden
+
+# Aufgabe
+
+Ich erweitere meine Kenntnisse in Git und GitHub, indem ich eine simulierte Zusammenarbeit zwischen zwei Entwicklern durchführe. Dabei erstelle ich zwei Feature-Branches, nehme unterschiedliche Änderungen an derselben Datei vor und erzeuge dadurch einen Merge-Konflikt. Anschließend analysiere und behebe ich den Konflikt, indem ich die Änderungen manuell zusammenführe und das Ergebnis committe. Danach lade ich die Branches in ein GitHub-Repository hoch und erstelle einen Pull Request, um die Änderungen überprüfen zu lassen. Mithilfe eines simulierten Code-Reviews setze ich das erhaltene Feedback um und aktualisiere den bestehenden Pull Request. Abschließend lasse ich die Änderungen genehmigen, merge den Pull Request in den Hauptbranch und überprüfe den finalen Projektstatus. Während des gesamten Workflows dokumentiere ich die verwendeten Git-Befehle und beschreibe die Ergebnisse der einzelnen Schritte, um den Ablauf der Zusammenarbeit nachvollziehbar festzuhalten.
+
+# Youtube 
+https://www.youtube.com/watch?v=UmE0uf5UMzA
+https://www.youtube.com/watch?v=lSnbOtw4izI
+https://www.youtube.com/watch?v=nCKdihvneS0
+https://www.youtube.com/watch?v=02aQhH5cNBg
+https://www.youtube.com/watch?v=cjSjlHUmaBU
+https://www.youtube.com/watch?v=mAFoROnOfHs&t=2863s
+https://www.youtube.com/watch?v=e2IbNHi4uCI
