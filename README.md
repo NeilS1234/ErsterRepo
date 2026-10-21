@@ -272,3 +272,22 @@ https://www.youtube.com/watch?v=02aQhH5cNBg
 https://www.youtube.com/watch?v=cjSjlHUmaBU
 https://www.youtube.com/watch?v=mAFoROnOfHs&t=2863s
 https://www.youtube.com/watch?v=e2IbNHi4uCI
+
+# Day 14 — GitHub Issues and Project Management
+
+* GitHub Issues erstellen und verwenden, um Aufgaben, Fehler und Verbesserungsvorschläge zu dokumentieren und zu verwalten
+* Issue Templates erstellen und verwenden, um eine einheitliche Struktur für neue Issues bereitzustellen
+* Labels und Milestones nutzen, um Aufgaben zu kategorisieren, zu priorisieren und Projektziele zu organisieren
+* Commits und Pull Requests mit Issues verknüpfen, um Änderungen nachvollziehbar zu dokumentieren und erledigte Aufgaben automatisch zu schließen
+* GitHub Project Boards erstellen und verwenden, um Aufgaben zu organisieren und den Fortschritt eines Projekts zu verfolgen
+* GitHub-Funktionen zur Aufgabenverwaltung und Zusammenarbeit im Team praktisch anwenden
+
+# Aufgabe
+
+Ich erweitere meine Kenntnisse in GitHub Issues und Projektmanagement, indem ich ein kleines GitHub-Projekt erstelle und dessen Aufgaben strukturiert verwalte. Dabei erstelle ich einen Milestone, lege mindestens fünf Issues mit passenden Beschreibungen an und versehe sie mit geeigneten Labels. Anschließend erstelle ich ein GitHub Project Board, füge die Issues hinzu und organisiere sie nach ihrem Bearbeitungsstatus. Für eine abgeschlossene Aufgabe nehme ich eine Änderung vor, erstelle einen Commit und einen Pull Request und verknüpfe diesen mit dem entsprechenden Issue. Nach dem Merge des Pull Requests überprüfe ich, ob das verknüpfte Issue korrekt geschlossen wurde. Während des gesamten Workflows dokumentiere ich die verwendeten GitHub-Funktionen und beschreibe die Ergebnisse der einzelnen Schritte, um die Aufgabenverwaltung und den Projektfortschritt nachvollziehbar festzuhalten.
+
+# Youtube 
+https://www.youtube.com/watch?v=c67GaAkf1BE
+https://www.youtube.com/watch?v=nKvvdoAjqG4
+https://www.youtube.com/watch?v=lSnbOtw4izI
+https://www.youtube.com/watch?v=Q4h_kZ6H4Ns
