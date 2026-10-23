@@ -291,3 +291,23 @@ https://www.youtube.com/watch?v=c67GaAkf1BE
 https://www.youtube.com/watch?v=nKvvdoAjqG4
 https://www.youtube.com/watch?v=lSnbOtw4izI
 https://www.youtube.com/watch?v=Q4h_kZ6H4Ns
+
+
+# Day 15 — Working with External Data
+
+* JSON-Daten lesen, validieren und verarbeiten
+* APIs kennenlernen und mit Python `requests` Daten abrufen
+* Relevante Daten extrahieren und mit `pandas` in DataFrames umwandeln
+* Daten als CSV-Datei speichern und mögliche Fehler behandeln
+* Umgebungsvariablen verwenden, um API-Schlüssel und Zugangsdaten zu schützen
+* Datenschutz und Anonymisierung bei der Verarbeitung sensibler Daten berücksichtigen
+
+# Aufgabe
+
+Ich verarbeite externe Daten aus einer öffentlichen API oder einer JSON-Datei mit Python. Dabei validiere ich die Daten, extrahiere relevante Felder und wandle diese mithilfe von `pandas` in einen DataFrame um, den ich anschließend als CSV-Datei speichere. Zusätzlich implementiere ich eine geeignete Fehlerbehandlung und dokumentiere, wie vertrauliche Informationen durch Umgebungsvariablen geschützt und personenbezogene Daten anonymisiert werden können.
+
+# Youtube 
+https://www.youtube.com/watch?v=9cmbUhvoYPE
+https://www.youtube.com/watch?v=iiADhChRriM
+https://www.youtube.com/watch?v=WXsD0ZgxjRw
+https://www.youtube.com/watch?v=DVVYHlGYIHY
