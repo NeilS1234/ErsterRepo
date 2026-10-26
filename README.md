@@ -311,3 +311,23 @@ https://www.youtube.com/watch?v=9cmbUhvoYPE
 https://www.youtube.com/watch?v=iiADhChRriM
 https://www.youtube.com/watch?v=WXsD0ZgxjRw
 https://www.youtube.com/watch?v=DVVYHlGYIHY
+
+
+# Day 16 — Project Planning and Requirements
+
+* Ein Datenanalyseproblem definieren und eine klare Problemstellung formulieren
+* Projektanforderungen und Zielgruppe festlegen
+* Geeignete Datenquellen auswählen und Analysefragen formulieren
+* Berechnungen und Diagramme für die Analyse planen
+* Eine Python-Projektstruktur entwerfen und Aufgaben in GitHub Issues aufteilen
+* GitHub Milestones, Definition of Done, Risiken und Annahmen dokumentieren
+
+# Aufgabe
+Ich erstelle einen Projektvorschlag für ein Datenanalyseprojekt. Dabei definiere ich das Problem, die Zielgruppe, die Datenquelle und die Analysefragen. Außerdem plane ich Berechnungen, Diagramme und die Repository-Struktur und teile die Aufgaben in GitHub Issues und Milestones auf. Abschließend dokumentiere ich die Erfolgskriterien, Risiken und Annahmen und lasse den Vorschlag von meinem Mentor freigeben, bevor ich mit der Implementierung beginne.
+
+# Youtube 
+https://www.youtube.com/watch?v=6OSpm4uXqDw
+https://www.youtube.com/watch?v=C_S3ygjANg4&t=492s
+https://www.youtube.com/watch?v=kWZEXXd2tZA
+https://www.youtube.com/watch?v=c67GaAkf1BE
+
