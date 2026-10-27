@@ -331,3 +331,21 @@ https://www.youtube.com/watch?v=C_S3ygjANg4&t=492s
 https://www.youtube.com/watch?v=kWZEXXd2tZA
 https://www.youtube.com/watch?v=c67GaAkf1BE
 
+
+# Day 17 — Data Import and Cleaning
+
+* Reproduzierbare Datenbereinigungs-Pipelines implementieren
+* Rohdaten validieren und auf fehlende oder ungültige Werte prüfen
+* Datenbereinigungsfunktionen für eine einheitliche Datenqualität entwickeln
+* Fehlerbehandlung und Logging für den Datenimport und die Bereinigung implementieren
+* Datentransformationen durch automatisierte Tests überprüfen
+* Bereinigte Daten exportieren und einen Pull Request zur Überprüfung erstellen
+
+# Aufgabe
+Ich implementiere die Datenimport- und Datenbereinigungskomponenten für mein Datenanalyseprojekt. Dabei überprüfe ich die Rohdaten auf fehlende Werte, ungültige Datentypen und andere Datenqualitätsprobleme. Anschließend entwickle ich wiederverwendbare Bereinigungsfunktionen und eine reproduzierbare Pipeline, die die Daten zuverlässig verarbeitet. Außerdem implementiere ich eine geeignete Fehlerbehandlung und ein Logging, um Probleme beim Import und bei der Bereinigung nachvollziehbar zu dokumentieren. Abschließend teste ich die Datenvalidierung und alle Datentransformationen automatisiert, erstelle einen bereinigten Datensatz und reiche einen Pull Request zur Überprüfung ein.
+
+# Youtube 
+https://www.youtube.com/watch?v=YbpKMIUjvK8
+https://www.youtube.com/watch?v=sDWL30CzJT8
+https://www.youtube.com/watch?v=MDaMmWBI-S8
+https://www.youtube.com/watch?v=7UQ91Ib7PtU
