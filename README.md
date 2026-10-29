@@ -349,3 +349,26 @@ https://www.youtube.com/watch?v=YbpKMIUjvK8
 https://www.youtube.com/watch?v=sDWL30CzJT8
 https://www.youtube.com/watch?v=MDaMmWBI-S8
 https://www.youtube.com/watch?v=7UQ91Ib7PtU
+
+
+# Day 18 — Exploratory Data Analysis
+
+* Verkaufsdaten mit Pandas importieren und analysieren
+* Wichtige Kennzahlen wie Gesamtumsatz und Verkaufsmenge berechnen
+* Mindestens drei aussagekräftige Diagramme mit Matplotlib erstellen
+* Daten auf Muster, Auffälligkeiten und ungewöhnliche Werte untersuchen
+* Ergebnisse anhand der vorhandenen Daten auswerten und dokumentieren
+* Annahmen und Einschränkungen der Datenanalyse festhalten
+* Analyseergebnisse überprüfen und einen Pull Request zur Überprüfung vorbereiten
+
+# Aufgabe 
+
+Ich führe eine explorative Datenanalyse für mein Datenanalyseprojekt durch. Dabei importiere ich Verkaufsdaten aus einer CSV-Datei und werte diese mithilfe der Python-Bibliothek Pandas aus. Anschließend berechne ich wichtige Kennzahlen wie den Gesamtumsatz, die verkaufte Gesamtmenge und den durchschnittlichen Umsatz pro Datensatz. Mit Matplotlib erstelle ich mindestens drei Diagramme, um den Umsatz pro Produkt, die verkaufte Menge pro Monat und den monatlichen Umsatz übersichtlich darzustellen. Außerdem untersuche ich die Daten auf Muster, Auffälligkeiten und ungewöhnliche Werte. Die Ergebnisse werte ich anhand der vorhandenen Daten aus und dokumentiere die wichtigsten Erkenntnisse. Abschließend halte ich die Annahmen und Einschränkungen der Analyse fest und überprüfe meinen Code sowie die erstellten Diagramme, bevor ich meine Änderungen zur Überprüfung einreiche.
+
+# Youtube 
+https://www.youtube.com/watch?v=T86Xl1IhlgI
+https://www.youtube.com/watch?v=MEAYyxticfE
+https://www.youtube.com/watch?v=VV8iRJ-DS0A
+https://www.youtube.com/watch?v=na9YHNfvLew
+https://www.youtube.com/watch?v=Liv6eeb1VfE
+
